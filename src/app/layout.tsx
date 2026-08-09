@@ -35,6 +35,7 @@ const sans = localFont({
 });
 
 export const metadata: Metadata = {
+	metadataBase: new URL("https://1browser-website.vercel.app"),
 	title: "1Browser",
 	description: "Your All in 1Browser",
 };
