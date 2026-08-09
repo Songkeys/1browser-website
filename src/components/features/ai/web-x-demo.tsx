@@ -32,7 +32,8 @@ export function WebXDemo() {
 			user: "Alice Johnson",
 			handle: "@alicejohnson",
 			avatar: "https://api.dicebear.com/9.x/adventurer/svg?seed=Alice Johson",
-			content: "Guys! I heard about this new browser called 1browser.one",
+			content:
+				"Guys! I heard about this new browser called 1browser-website.vercel.app",
 			time: "6h",
 			replies: 10,
 			retweets: 45,

@@ -49,8 +49,11 @@ export function TermsOfService() {
 			<section className="mb-8">
 				<h2 className="text-2xl font-semibold mb-4">10. Contact Us</h2>
 				<p>
-					If you have any questions about these Terms, please contact us at
-					terms@1browser.one.
+					If you have any questions about these Terms, please use our{" "}
+					<a href="/contact" className="underline">
+						contact page
+					</a>
+					.
 				</p>
 			</section>
 		</div>
